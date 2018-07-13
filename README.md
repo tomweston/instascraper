@@ -3,5 +3,5 @@
 Instagram Scraper
 
 ```bash
-go run main.go
+go run main.go nameofaccount
 ```
